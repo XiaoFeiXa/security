@@ -15,6 +15,11 @@
     </modules>
     <packaging>pom</packaging>
 
+    <properties>
+        <cc.security.version>1.0-SNAPSHOT</cc.security.version>
+    </properties>
+
+
     <dependencyManagement>
         <dependencies>
             <!--帮助管理版本-->
