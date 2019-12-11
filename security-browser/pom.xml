@@ -12,5 +12,13 @@
 
     <artifactId>security-browser</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.cc.security</groupId>
+            <artifactId>security-core</artifactId>
+            <version>${cc.security.version}</version>
+        </dependency>
+    </dependencies>
+
 
 </project>
