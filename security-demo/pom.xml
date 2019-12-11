@@ -12,5 +12,12 @@
 
     <artifactId>security-demo</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.cc.security</groupId>
+            <artifactId>security-browser</artifactId>
+            <version>${cc.security.version}</version>
+        </dependency>
+    </dependencies>
 
 </project>
